@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\CyberMaster\SoftwareSecurity\Project 1\SafeStorage\out\SafeStorage\SafeStorage.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\CyberMaster\SoftwareSecurity\Project 1\SafeStorage\out\SafeStorageUnitTests\SafeStorageUnitTests.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
